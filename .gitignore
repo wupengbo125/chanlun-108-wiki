@@ -30,8 +30,3 @@ tmp_source/
 AGENTS.md
 CLAUDE.md
 # <<< managed by dotfiles <<<
-.agents/
-.claude/
-.ua/
-.pi/
-.omp/
